@@ -5,7 +5,9 @@
       <li><h3>file name: index.js</h3></li>
         <li><h3>beor run you bot must you change"TOKEN" with you bot token</h3></li>
         <li><h3>Must you use this cod"npm install discord.js@12" to run your bot</h3></li>
+    </ul>
   </head>
+  
         <body>
           <h2>
             PROJECT</h2>
@@ -44,7 +46,7 @@ client.login('YOUR_BOT_TOKEN');
               
             }
           </style>
-          <a href="https://bleu1js.github.io/Blue._.js">HOME PAGE</a>
+          <a href="https://bleu1js.github.io/Blue._.js"><h2>HOME PAGE</h2></a>
           
         </body>
           </html>
