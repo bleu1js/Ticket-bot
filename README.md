@@ -10,7 +10,7 @@
   
         <body>
           <h2>
-            PROJECT</h2>
+            PROJECT:</h2>
           <table>
             <tr>
               <td>
