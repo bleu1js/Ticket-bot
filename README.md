@@ -42,7 +42,7 @@ client.login('YOUR_BOT_TOKEN');
           </table>
           <style>
             body{
-              background-color: gray;
+              background-image: url('Picsart_24-05-16_20-56-54-582.jpg');
               
             }
           </style>
