@@ -46,7 +46,7 @@ client.login('YOUR_BOT_TOKEN');
               
             }
           </style>
-          <a href="https://bleu1js.github.io/Blue._.js"><h2>HOME PAGE</h2></a>
+          <a href="https://bleu1js.github.io/Blue._.js"><img src="Picsart_24-05-17_11-16-44-661.jpg" height= "45" weight= "45"></a>
           
         </body>
           </html>
