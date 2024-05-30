@@ -9,8 +9,8 @@
   </head>
   
         <body>
-<h1>project file</h1>
-<a href="index (5).js"><h2>download projject file</h2></a>
+<h1>PROJECT:</h1>
+<a href="index (5).js"><h2>DOWNLOAD PROJECT FILE</h2></a>
           <h2>
             PROJECT:</h2>
           <table>
