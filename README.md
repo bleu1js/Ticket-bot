@@ -10,7 +10,7 @@
   
         <body>
 <h1>PROJECT:</h1>
-<a href="index (5).js"><h2>DOWNLOAD PROJECT FILE</h2></a>
+<a download href="index (5).js"><h2>DOWNLOAD PROJECT FILE</h2></a>
           <h2>
             PROJECT:</h2>
           <table>
